@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;jdbcTemplate2/src/jdbcTemplate&apos;&#x0D;&#x0A;- Original project: &apos;jdbcTemplatePreparedStatement&apos;&#x0D;&#x0A;- Destination element: &apos;jdbcTemplate2/src/jdbcTemplate&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jdbcTemplate.EmployeeDao.java&#x0D;&#x0A;     jdbcTemplate.Employee.java" description="Copy compilation units" destination="=jdbcTemplate2/src&lt;jdbcTemplate" element1="/src&lt;jdbcTemplate{EmployeeDao.java" element2="/src&lt;jdbcTemplate{Employee.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1656908616899" units="2" version="1.0"/>
+</session>

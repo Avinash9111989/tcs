@@ -1,0 +1,8 @@
+INDEX VERSION 1.132+E:\Education\JavaFS\EclipseWorkspace\Spring\SpringJDBC\.metadata\.plugins\org.eclipse.jdt.core
+691965337.index
+4225679991.index
+3935383022.index
+172113763.index
+1865797976.index
+3485744022.index
+1377563012.index

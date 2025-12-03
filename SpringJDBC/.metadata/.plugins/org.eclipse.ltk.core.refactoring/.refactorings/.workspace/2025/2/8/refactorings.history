@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 10 resources" deleteContents="false" description="Delete 10 resources" element1="/demo" element10="/SpringHibernate" element2="/jdbcTemplate2" element3="/jdbcTemplatePreparedStatement" element4="/JdbcTemplateRowMapper" element5="/NamedParameterJdbcTemplate" element6="/ResultSetExtractor" element7="/Servers" element8="/SimpleJdbcTemplate" element9="/sphbintegration" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="10" stamp="1739942668082"/>
+</session>
