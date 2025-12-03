@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 21.0.9
+Implementation-Title: infytel_demo4
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infytel
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/infytel_demo4
+Created-By: Maven Integration for Eclipse
+
